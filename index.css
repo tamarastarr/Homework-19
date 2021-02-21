@@ -1,0 +1,24 @@
+img {
+    margin: auto;
+}
+
+.centertext {
+    text-align: center;
+}
+
+img {
+    padding-top: 40px;
+    padding-right: 25px;
+    padding-bottom: 40px;
+    padding-left: 25px;
+}
+
+.BodyWrapper {
+    display: flex;
+    width: 100vw;
+}
+
+.BodyWrapper div {
+    flex: 1;
+    border: 2px solid red;
+}
